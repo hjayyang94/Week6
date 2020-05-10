@@ -1,0 +1,2 @@
+language = "bash"
+run = "cd Week1Exercise;javac TermFrequency.java;java TermFrequency ../pride_and_prejudice.txt"
